@@ -14,7 +14,7 @@ public class a_equal_to_b {
         }
         else{
             if(a>b){
-                System.out.println(a);
+                System.out.println("a > b");
             }
             else
             System.out.println("a < b");
