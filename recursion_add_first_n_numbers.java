@@ -8,6 +8,7 @@ public class recursion_add_first_n_numbers {
         System.out.println(sum);
         sc.close();
     }
+    
     public static int sumN(int n){
         if (n == 0){
             return 0;
