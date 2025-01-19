@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class a_equal_to_b {
+public class a_equals_b {
     public static void main(String arg[])
     {   int a, b;
         Scanner sc = new Scanner(System.in);
